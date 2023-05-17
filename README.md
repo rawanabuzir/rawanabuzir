@@ -11,5 +11,6 @@
       <br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
     <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanabuzir&show_icons=true&theme=blueberry_duo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawanabuzir&layout=compact)](https://github.com/rawanabuzir/github-readme-stats) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanabuzir&show_icons=true&theme=blueberry_duo)      <br>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawanabuzir&layout=compact)](https://github.com/rawanabuzir/github-readme-stats) <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
