@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello all 👋
 ## My name is :✨ ***Rawan Abuzir***  ✨
 
