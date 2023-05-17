@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rawanabuzir/rawanabuzir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello all 👋
+## My name is :✨ ***Rawan Abuzir***  ✨
 
-Here are some ideas to get you started:
+-  How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - ✨ [GitHub](https://github.com/rawanabuzir)
+    - ✨ [LinkedIn](https://www.linkedin.com/in/rawan-khaled-9a3252214)
+    - ✨ email: Rawan_Abuzir@outlook.com
+      <br>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+    <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanabuzir&show_icons=true&theme=blueberry_duo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawanabuzir&layout=compact)](https://github.com/rawanabuzir/github-readme-stats) <br>
