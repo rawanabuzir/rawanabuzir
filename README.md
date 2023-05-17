@@ -5,7 +5,7 @@
 
     - ✨ [GitHub](https://github.com/rawanabuzir)
     - ✨ [LinkedIn](https://www.linkedin.com/in/rawan-khaled-9a3252214)
-    - ✨ email: Rawan_Abuzir@outlook.com
+    - ✨ email: rawan_abuzir@outlook.com
       <br>
 
    
