@@ -3,11 +3,11 @@
 
 -  How to reach me: 
 
-    - ✨ [GitHub](https://github.com/rawanabuzir)
-    - ✨ [LinkedIn](https://www.linkedin.com/in/rawan-khaled-9a3252214)
-    - ✨ email: rawan_abuzir@outlook.com
-      <br>
 
+    - ✨ [LinkedIn](https://www.linkedin.com/in/rawan-khaled-9a3252214)   
+     - ✨ [Twitter](https://twitter.com/Rawan_AbuZir)
+    - ✨ email: rawan_abuzir@outlook.com
+      <b>
    
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
   <br>
