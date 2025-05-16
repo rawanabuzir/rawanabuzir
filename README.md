@@ -4,9 +4,8 @@
 -  How to reach me: 
 
 
-    - ✨ [LinkedIn](https://www.linkedin.com/in/rawan-khaled-9a3252214)   
-     - ✨ [Twitter](https://twitter.com/Rawan_AbuZir)
-    - ✨ email: rawan_abuzir@outlook.com
+    - ✨ [LinkedIn]([https://www.linkedin.com/in/rawan-khaled-9a3252214](https://www.linkedin.com/in/rawankhaled-rk/))   
+    - ✨ email: rawan.abuzir@outlook.com
       <b>
    
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
