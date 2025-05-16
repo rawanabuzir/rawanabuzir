@@ -1,16 +1,34 @@
-# Hello all 👋
-## My name is :✨ ***Rawan Abuzir***  ✨
+# 👋 Hello Everyone!
+## ✨ I'm [Rawan Abuzir](https://www.linkedin.com/in/rawankhaled-rk/)
 
--  How to reach me: 
+---
 
+### 💫 About Me
+- 🎓 Software Engineer | Mobile Developer
+- 🌱 Currently improving my skills in Flutter, React Native & Firebase
+- 💡 Passionate about building useful & elegant mobile apps
+- 📬 Reach me at: **rawan.abuzir@outlook.com**
 
-    - ✨ [LinkedIn]([https://www.linkedin.com/in/rawan-khaled-9a3252214](https://www.linkedin.com/in/rawankhaled-rk/))   
-    - ✨ email: rawan.abuzir@outlook.com
-      <b>
-   
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-  <br>
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanabuzir&show_icons=true&theme=blueberry_duo)      <br>
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawanabuzir&layout=compact)](https://github.com/rawanabuzir/github-readme-stats) <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawankhaled-rk/)
+[![Gmail](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rawan.abuzir@outlook.com)
+
+---
+
+### 🔥 GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawanabuzir&show_icons=true&theme=blueberry_duo" />
+
+---
+
+### 🌐 Top Languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanabuzir&layout=compact&theme=blueberry_duo" />
+
+---
+
+### ✨ Thank you for visiting!
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rawanabuzir.readme)
