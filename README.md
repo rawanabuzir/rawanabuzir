@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 - 🎓 Software Engineer | Mobile Developer
-- 🌱 Currently improving my skills in Flutter, React Native & Firebase
+- 🌱 Currently improving my skills in Flutter, React Native 
 - 💡 Passionate about building useful & elegant mobile apps
 - 📬 Reach me at: **rawan.abuzir@outlook.com**
 
